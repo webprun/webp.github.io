@@ -91,7 +91,7 @@ code {
 .header .logo_title .title img {
   float: left;
   margin: 0.7em 0.5em 0 0;
-  width: 30px;
+  width: 130px;
   transition: all ease 0.4s;
 }
 .header .logo_title .title img:hover {
@@ -103,6 +103,7 @@ code {
   transform: translateY(-0.75em);
 }
 .header .logo_title .title h1 {
+  display: none;
   float: left;
   color: #333;
   letter-spacing: 1px;

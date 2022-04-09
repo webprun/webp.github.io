@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.webp.run</id>
     <title>WEBP.RUN &apos; Blog</title>
-    <updated>2022-04-09T14:07:43.047Z</updated>
+    <updated>2022-04-09T15:11:22.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.webp.run"/>
     <link rel="self" href="https://blog.webp.run/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://blog.webp.run/images/avatar.png</logo>
     <icon>https://blog.webp.run/favicon.ico</icon>
     <rights>All rights reserved 2022, WEBP.RUN &apos; Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[WEBP.RUN图床博客]]></title>
+        <id>https://blog.webp.run/WB3ZHINKz/</id>
+        <link href="https://blog.webp.run/WB3ZHINKz/">
+        </link>
+        <updated>2022-04-09T15:06:22.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://blog.webp.run/hello-gridea/</id>
